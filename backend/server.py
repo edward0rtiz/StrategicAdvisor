@@ -29,7 +29,7 @@ app.add_middleware(
 client = OpenAI()
 
 # Memory directory
-MEMORY_DIR = Path("../memory")
+MEMORY_DIR = Path("../.memory")
 MEMORY_DIR.mkdir(exist_ok=True)
 
 
