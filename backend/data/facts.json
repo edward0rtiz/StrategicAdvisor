@@ -1,0 +1,122 @@
+{
+    "full_name": "Edward Ortiz",
+    "name": "Edward",
+    "current_role": "Delivery Orchestator and Strategic Advisor",
+    "location": "Remote",
+    "email": "edwardarmandortiz@outlook.com",
+    "linkedin": "https://www.linkedin.com/in/ortizedward/",
+    "specialties": [
+      "Program Management",
+      "Agile/Scrum",
+      "OKRs",
+      "LEAN",
+      "VSM",
+      "Strategic Planning",
+      "Jira",
+      "Confluence",
+      "Azure DevOps",
+      "Technical",
+      "Python",
+      "SQL",
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "Grafana",
+      "GitLab",
+      "Flask",
+      "DjangoREST",
+      "AI / Data",
+      "Spec-Driven Development",
+      "TensorFlow",
+      "Keras",
+      "Scikit-learn",
+      "LangChain",
+      "Pandas",
+      "Visualization",
+      "IT Product Delivery Orchestration"
+     ],
+    "years_experience": 10,
+    "education": [
+        {
+          "degree": "Computer Software Engineering",
+          "institution": "Holberton School",
+          "year": "2021"
+        },
+        {
+          "degree": "Baccalauréat, Administration des affaires",
+          "institution": "Université du Québec à Chicoutimi",
+          "year": "2013"
+        },
+        {
+          "degree": "BBA, Business Administration and Management",
+          "institution": "Escuela de Administración de Negocios",
+          "year": "2013"
+        },
+        {
+          "degree": "International Business/Trade/Commerce",
+          "institution": "China University of Mining and Technology",
+          "year": "2012"
+        },
+        {
+          "degree": "IT Project Management",
+          "institution": "Softbank School Operator",
+          "year": "2021"
+        },
+        {
+          "degree": "Technology Entrepreneurship, Sustainable Product Development, Design Thinking",
+          "institution": "Stanford Venture Lab",
+          "year": "2013"
+        },
+        {
+          "degree": "AWS Certified AI Practitioner",
+          "institution": "Amazon Web Services",
+          "year": "2026"
+        },
+        {
+          "degree": "ICP-APM",
+          "institution": "International Consortium for Agile",
+          "year": "2026"
+        },
+        {
+          "degree": "AWS Certified Cloud Practitioner",
+          "institution": "Amazon Web Services",
+          "year": "2026"
+        },
+        {
+          "degree": "Certified Scrum Product Owner",
+          "institution": "Scrum Alliance",
+          "year": "2021"
+        },
+        {
+          "degree": "Certified Scrum Master",
+          "institution": "Scrum Alliance",
+          "year": "2021"
+        },
+        {
+          "degree": "Deep Learning Specialization",
+          "institution": "Deeplearning.AI",
+          "year": "2020"
+        },
+        {
+          "degree": "Data Scientist Certificate",
+          "institution": "DS4A / Correlation One",
+          "year": "2020"
+        },
+        {
+          "degree": "Data Science Professional Certificate",
+          "institution": "IBM",
+          "year": "2019"
+        },
+        {
+          "degree": "Python Programmer",
+          "institution": "DataCamp",
+          "year": "2020"
+        },
+        {
+          "degree": "Data Analyst with Python",
+          "institution": "DataCamp",
+          "year": "2020"
+        }
+    ]
+  }

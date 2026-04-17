@@ -40,7 +40,7 @@ export default function Strategicai() {
         setIsLoading(true);
 
         try {
-            const response = await fetch('http://localhost:8000/chat', {
+            const response = await fetch('https://y36hrwn65m.execute-api.us-east-1.amazonaws.com/chat', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',

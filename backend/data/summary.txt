@@ -1,0 +1,6 @@
+12+ years in project and program management, 6 in technical program management across fintech and supply chain finance.
+At KLYM, I scaled cross-functional teams across multiple squads, shipped 38+ platform releases, and drove a 42%
+infrastructure cost reduction through a C2C migration I scoped and delivered. With 2 years building ML models in Python, I'm
+comfortable in both design reviews and OKR planning. Recently, I've been shaping how teams pair AI-assisted workflows with
+spec-driven development to allocate capacity and prioritize features effectively. Experienced across LATAM and North
+America, fluent in Spanish, English. Less process theater, more outcomes.

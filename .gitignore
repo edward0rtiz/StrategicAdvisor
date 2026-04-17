@@ -50,4 +50,7 @@ next-env.d.ts
 # Memory
 .memory/
 
+# Lambda
+lambda-deployment.zip
+lambda-package/
 
