@@ -16,6 +16,7 @@ venv/
 .DS_Store
 .base/
 uv.lock
+*uv.lock
 
 # testing
 /coverage
