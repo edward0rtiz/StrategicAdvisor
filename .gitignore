@@ -72,3 +72,5 @@ terraform.tfstate.d/
 *.swp
 .DS_Store
 
+.base/
+
