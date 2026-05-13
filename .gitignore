@@ -43,6 +43,7 @@ yarn-error.log*
 .env
 .env.*
 .env.local
+!.env.example
 
 
 # typescript
@@ -75,7 +76,16 @@ terraform.tfstate.d/
 .base/
 
 # Node
+# Node
 node_modules/
 out/
 .next/
+*.log
+# AWS
+.aws/
 
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/

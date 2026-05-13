@@ -32,6 +32,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+.env.local
+.env
+!.env.example
+
 
 # vercel
 .vercel
@@ -124,4 +128,8 @@ terraform.tfstate.d/
 node_modules/
 out/
 .next/
+*.log
+
+# AWS
+.aws/
 
