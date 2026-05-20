@@ -20,6 +20,7 @@ locals {
 resource "aws_s3_bucket" "memory" {
   bucket = "${local.name_prefix}-memory-${data.aws_caller_identity.current.account_id}"
   tags   = local.common_tags
+  force_destroy = true
 }
 
 resource "aws_s3_bucket_public_access_block" "memory" {
