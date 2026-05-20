@@ -120,8 +120,8 @@ export default function Strategicai() {
                     <div className="text-center text-gray-500 mt-8">
                         {hasAvatar ? (
                             <img 
-                                src="/avatar.png" 
-                                alt="Digital Twin Avatar" 
+                                src="/prof.png" 
+                                alt="Strategic AI Avatar" 
                                 className="w-20 h-20 rounded-full mx-auto mb-3 border-2 border-gray-300"
                             />
                         ) : (
