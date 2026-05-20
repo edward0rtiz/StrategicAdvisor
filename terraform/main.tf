@@ -43,6 +43,7 @@ resource "aws_s3_bucket_ownership_controls" "memory" {
 resource "aws_s3_bucket" "frontend" {
   bucket = "${local.name_prefix}-frontend-${data.aws_caller_identity.current.account_id}"
   tags   = local.common_tags
+  force_destroy  = true
 }
 
 resource "aws_s3_bucket_public_access_block" "frontend" {
