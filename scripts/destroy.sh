@@ -28,7 +28,7 @@ terraform init -input=false \
   -backend-config="bucket=strategicai-terraform-state-${AWS_ACCOUNT_ID}" \
   -backend-config="key=${ENVIRONMENT}/terraform.tfstate" \
   -backend-config="region=${AWS_REGION}" \
-  -backend-config="dynamodb_table=twin-terraform-locks" \
+  -backend-config="dynamodb_table=strategicai-terraform-locks" \
   -backend-config="encrypt=true"
 
 # Check if workspace exists
