@@ -25,7 +25,7 @@ AWS_REGION=${DEFAULT_AWS_REGION:-us-east-1}
 # Initialize terraform with S3 backend
 echo "🔧 Initializing Terraform with S3 backend..."
 terraform init -input=false \
-  -backend-config="bucket=strategicadvisor-terraform-state-${AWS_ACCOUNT_ID}" \
+  -backend-config="bucket=strategicai-terraform-state-${AWS_ACCOUNT_ID}" \
   -backend-config="key=${ENVIRONMENT}/terraform.tfstate" \
   -backend-config="region=${AWS_REGION}" \
   -backend-config="dynamodb_table=strategicai-terraform-locks" \
